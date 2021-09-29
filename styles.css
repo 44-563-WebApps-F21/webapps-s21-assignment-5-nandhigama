@@ -1,0 +1,9 @@
+.tableh
+{
+    background-color:#DEB887;
+}
+
+tr:nth-child(even)
+{
+    background-color: #87CEFA;
+}
